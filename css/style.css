@@ -2989,7 +2989,7 @@ section.hero.spad.set-bg:before {
 
 @media (max-width:767px){
 	.hero__text h1 {
-		font-size: 70px;
+		font-size: 50px;
 	}
 	section.hero.spad.set-bg {
 		padding-top: 150px;
