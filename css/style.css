@@ -2985,3 +2985,35 @@ section.hero.spad.set-bg:before {
     width: 100%;
     height: 100%;
 }
+
+
+@media (max-width:767px){
+	.hero__text h1 {
+		font-size: 70px;
+	}
+	section.hero.spad.set-bg {
+		padding-top: 150px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-bottom: 170px;
+	}
+	a.slicknav_btn {
+		padding: 7px 0 0 0;
+		background: transparent;
+	}
+	.about__text {
+		padding-top: 70px;
+	}
+	section.event.spad {
+		padding-top: 15px;
+	}
+	.section-title h1 {
+		font-size: 80px;
+	}
+	section.track.spad {
+		padding-top: 70px;
+	}
+	footer.footer.footer--normal.spad.set-bg {
+		padding-top: 180px;
+	}
+}
