@@ -3016,4 +3016,7 @@ section.hero.spad.set-bg:before {
 	footer.footer.footer--normal.spad.set-bg {
 		padding-top: 180px;
 	}
+	.skills {
+    padding-top: 33px;
+}
 }
